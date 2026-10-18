@@ -4,12 +4,6 @@ I'm a full-stack developer based in Chennai, building AI-powered web application
 
 I enjoy turning ideas into useful interfaces and improving my skills through hands-on projects.
 
-## Technologies
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks and libraries:** React, Next.js, Bootstrap
-- **Version control:** Git and GitHub
-
 ## What I'm working toward
 
 - Building more complete, useful web applications
