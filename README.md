@@ -2,7 +2,9 @@
 
 I'm a full-stack developer based in Chennai, building AI-powered web applications with React, Next.js, JavaScript, and TypeScript.
 
-I enjoy turning ideas into useful interfaces and improving my skills through hands-on projects.
+I’m skilled at using AI coding tools like **Claude Code** and **Codex** to turn ideas into working applications. I use AI throughout my development workflow—from planning and building features to debugging, refactoring, and improving code.
+
+I combine full-stack development with AI-assisted workflows to build useful applications and iterate quickly.
 
 ## What I'm working toward
 
