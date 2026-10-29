@@ -2,12 +2,12 @@
 
 I'm a UI designer and full-stack developer based in Chennai, India. I enjoy building responsive web experiences, from the interface through to the application behind it.
 
-I work with React, Next.js, Astro and JavaScript, and use tools including Claude Code and Codex to help build, debug and ship projects.
+I work with React, Next.js and JavaScript, and use tools including Claude Code and Codex to help build, debug and ship projects.
 
 ## Featured projects
 
 ### [Ula](https://github.com/mohan-codebase/ula) · [Live site](https://elsewhere-jet.vercel.app)
-A Tamil Nadu travel showcase with destination guides, itineraries and an interactive trip planner. Built with Astro, TypeScript, GSAP and Lenis, with attention to accessibility and image attribution.
+A Tamil Nadu travel showcase with destination guides, itineraries and an interactive trip planner. Built with TypeScript, GSAP and Lenis, with attention to accessibility and image attribution.
 
 ### [Portfolio](https://github.com/mohan-codebase/portfolio) · [Live site](https://portfolio-wheat-kappa-44.vercel.app)
 My personal portfolio, featuring selected projects, services and ways to get in touch. Built with Next.js, React and TypeScript.
