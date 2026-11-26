@@ -1,21 +1,20 @@
-# Hi, I'm Mohan
+<h1>
+  <img src="assets/profile-cover.png" alt="Mohan, UI designer and full-stack developer based in Chennai, India" width="1280">
+</h1>
 
-I'm a UI designer and full-stack developer based in Chennai, India. I enjoy building responsive web experiences, from the interface through to the application behind it.
+I build responsive web experiences and small utilities for macOS. On the web, I work with React, Next.js and JavaScript. I use Claude Code and Codex to help build, debug and ship projects.
 
-I work with React, Next.js and JavaScript, and use tools including Claude Code and Codex to help build, debug and ship projects.
+## Selected work
 
-## Featured projects
+### macOS
 
-### [Ula](https://github.com/mohan-codebase/ula) · [Live site](https://elsewhere-jet.vercel.app)
-A Tamil Nadu travel showcase with destination guides, itineraries and an interactive trip planner. Built with TypeScript, GSAP and Lenis, with attention to accessibility and image attribution.
+- **Sense** brings CPU, memory, storage, network and battery stats into the menu bar. [Source & demos](https://github.com/mohan-codebase/sense)
+- **Glint** snaps windows into place with edge gestures, a menu-bar picker and custom layouts. [Source & demo](https://github.com/mohan-codebase/glint)
 
-### [Portfolio](https://github.com/mohan-codebase/portfolio) · [Live site](https://portfolio-wheat-kappa-44.vercel.app)
-My personal portfolio, featuring selected projects, services and ways to get in touch. Built with Next.js, React and TypeScript.
+### Web
 
-### [Attendance App](https://github.com/mohan-codebase/attendance-app) · [Live site](https://attendance-app-black-omega.vercel.app)
-A collaborative attendance-tracking application developed with students of Schools of Techies. It combines a React interface with an Express and MongoDB backend.
+- **Ula** is a Tamil Nadu travel guide with itineraries and an interactive trip planner, built with TypeScript, GSAP and Lenis. [Source](https://github.com/mohan-codebase/ula) · [Live site](https://elsewhere-jet.vercel.app)
+- **Portfolio** brings together my projects, services and contact details in a site built with Next.js, React and TypeScript. [Source](https://github.com/mohan-codebase/portfolio) · [Live site](https://portfolio-nine-chi-xk7egz88dr.vercel.app)
+- **Attendance App** tracks attendance and was built with students at Schools of Techies using React, Express and MongoDB. [Source](https://github.com/mohan-codebase/attendance-app) · [Live site](https://attendance-app-black-omega.vercel.app)
 
-## Find me
-
-- [Portfolio](https://portfolio-wheat-kappa-44.vercel.app)
-- [GitHub repositories](https://github.com/mohan-codebase?tab=repositories)
+[Visit my portfolio](https://portfolio-nine-chi-xk7egz88dr.vercel.app) · [Browse my repositories](https://github.com/mohan-codebase?tab=repositories)
